@@ -1,0 +1,12 @@
+{
+  "trainer": [
+    {
+      "name": "red",
+      "password": "123",
+      "Gender": false,
+      "id": 1,
+      "team": {},
+      "storage": []
+    }
+  ]
+}
